@@ -1,0 +1,40 @@
+            body {
+                /* background: #e6e7e7 !important; */
+            }
+            
+            .header-custom {
+                margin: 1% 10% 1% 10%;
+            }
+            
+            .carousel-caption {
+                bottom: 8rem !important;
+            }
+            
+            body>div.custom-pencarian {
+                position: relative;
+                top: -80px;
+                height: auto;
+                width: 70%;
+                padding: 2%;
+                margin: 0% 15% 0% 15%;
+                background-color: #fff;
+                ;
+                border: 1 px solid #EEEEEE;
+                box-shadow: 0px 4px 16px rgb(0 0 0 / 10%);
+                border-radius: 10px;
+                overflow-y: hidden;
+            }
+            
+            .navbar:before {
+                border: none !important;
+            }
+            
+            .nav-dark .nav-link.active {
+                color: #6658ea!important;
+            }
+            
+            .nav-tabs .nav-link.active {
+                background-color: transparent;
+                border-color: transparent transparent #6658ea !important;
+                color: #495057;
+            }
